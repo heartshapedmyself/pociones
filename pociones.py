@@ -7,14 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1sjVNmf2uc72d0RwqV6RAj8vIQSrzz8x7
 """
 
-x = 2
-y = 2
-res =x+y
-y = 6
-res = x+y
-
-
-
 import random
 
 efectos = [
